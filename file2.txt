@@ -1,0 +1,2 @@
+This is file 2
+Branch is called file2Branch
